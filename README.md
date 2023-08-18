@@ -26,20 +26,26 @@ Verb Venture is a Python-based word guessing game that offers players the opport
 ## Installation
 
 1. Clone this repository to your local machine using:
-   ```sh
-   git clone https://github.com/umair-ali-bhutto/VerbVenture.git
+
+> ```sh
+> git clone https://github.com/umair-ali-bhutto/VerbVenture.git
+> ```
 
 ## Navigation and Running the Game
 
 1. Navigate to the project directory in your terminal:
 
-   ```sh
-   cd verb-venture
+> ```sh
+> cd VerbVenture
+> ```
 
 2. To run the game, use the following command:
 
-   ```sh
-   python verbventure.py
+> ```sh
+> python verb_venture.py
+> ```
+
+###### Note: This Depends on Your Python Version I Currently Have Python 3 So I Ran.
 
 ## Customization
 
