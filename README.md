@@ -31,16 +31,15 @@ Verb Venture is a Python-based word guessing game that offers players the opport
 
 ## Navigation and Running the Game
 
-Navigate to the project directory in your terminal:
+1. Navigate to the project directory in your terminal:
 
-```sh
-cd verb-venture
+   ```sh
+   cd verb-venture
 
-To run the game, use the following command:
+2. To run the game, use the following command:
 
-```sh
-python verb_venture.py
-
+   ```sh
+   python verbventure.py
 
 ## Customization
 
