@@ -45,7 +45,7 @@ Verb Venture is a Python-based word guessing game that offers players the opport
 > python verb_venture.py
 > ```
 
-###### Note: This Depends on Your Python Version I Currently Have Python 3 So I Ran.
+###### Note: This Depends on Your Python Version.
 
 ## Customization
 
